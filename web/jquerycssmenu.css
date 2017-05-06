@@ -1,0 +1,37 @@
+.margin_l10 {
+	margin-left: 10px;
+}
+
+.jquerycssmenu {
+font: bold 12px Verdana;
+padding-left: 30px; /*offset of tabs relative to browser left edge*/
+}
+
+.jquerycssmenu ul {
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+
+/*Top level list items*/
+.jquerycssmenu ul li {
+position: relative;
+display: inline;
+float: left;
+}
+
+/*Top level menu link items style*/
+.jquerycssmenu ul li a {
+display: block;
+padding: 5px 20px 10px 0;
+margin-right: 3px; /*spacing between tabs*/
+color: #aa9685;
+font-size: 12px;
+font-weight: bold;
+text-decoration: none;
+}
+
+.jquerycssmenu ul li a:hover {
+	color: #f00;
+}
+	

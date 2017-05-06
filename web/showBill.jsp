@@ -136,22 +136,5 @@
 
         </div> <!-- end of templatemo_content_wrapper -->
 
-        <div id="templatemo_footer_wrapper">
-
-            <div id="templatemo_footer">
-
-                <div class="section_w550">
-
-                    <div class="section_vk vk">
-                         <a href=<fmt:message bundle="${msgs}" key="mainAdmin.http"/>><fmt:message bundle="${msgs}" key="mainAdmin"/></a>
-                    </div>
-
-                </div>
-
-            </div> <!-- end of templatemo_footer -->
-
-            <div class="cleaner"></div>
-        </div> <!-- end of templatemo_footer_wrapper -->
-
     </body>
 </html>

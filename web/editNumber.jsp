@@ -11,6 +11,14 @@
 	<title></title>
 	<link href="templatemo_style.css" rel="stylesheet" type="text/css" />
 	<link rel="stylesheet" type="text/css" href="jquerycssmenu.css" />
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 </head>
 <body>
 <%HotelNumber number = (HotelNumber) request.getSession().getAttribute("number");%>
@@ -100,22 +108,6 @@
 
 </div> <!-- end of templatemo_content_wrapper -->
 
-<div id="templatemo_footer_wrapper">
-
-    	<div id="templatemo_footer">
-
-            <div class="section_w550">
-            
-                <div class="section_vk vk">
-                         <a href=<fmt:message bundle="${msgs}" key="mainAdmin.http"/>><fmt:message bundle="${msgs}" key="mainAdmin"/></a>
-                    </div>
-
-            </div>
-       	
-        </div> <!-- end of templatemo_footer -->
-    
-	<div class="cleaner"></div>
-</div> <!-- end of templatemo_footer_wrapper -->
 
 </body>
 </html>

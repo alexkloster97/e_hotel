@@ -1,8 +1,3 @@
-<%-- 
-    Document   : editNumber
-    Created on : 07.06.2014, 2:57:10
-    Author     : Игорь
---%>
 
 <%@page import="by.bsuir.hotel.entity.HotelNumber"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

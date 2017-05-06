@@ -1,9 +1,3 @@
-<%-- 
-    Document   : galery
-    Created on : 07.06.2014, 1:06:29
-    Author     : Игорь
---%>
-
 <%@page import="by.bsuir.hotel.entity.User"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>

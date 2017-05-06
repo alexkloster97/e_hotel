@@ -1,8 +1,3 @@
-<%-- 
-    Document   : result
-    Created on : 06.06.2014, 1:22:00
-    Author     : Игорь
---%>
 
 <%@page import="by.bsuir.hotel.entity.User"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

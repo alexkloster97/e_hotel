@@ -1,9 +1,3 @@
-<%-- 
-    Document   : number
-    Created on : 06.06.2014, 21:24:28
-    Author     : Игорь
---%>
-
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page import="by.bsuir.hotel.entity.User"%>

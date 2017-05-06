@@ -1,8 +1,3 @@
-<%-- 
-    Document   : userOffice
-    Created on : 05.06.2014, 23:15:51
-    Author     : Игорь
---%>
 
 <%@page import="by.bsuir.hotel.entity.User"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

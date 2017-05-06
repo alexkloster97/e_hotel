@@ -1,8 +1,3 @@
-<%-- 
-    Document   : userPage
-    Created on : 05.06.2014, 2:30:30
-    Author     : Игорь
---%>
 
 <%@page import="by.bsuir.hotel.entity.User"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -112,18 +107,6 @@
         </div> <!-- end of templatemo_content_wrapper -->
 
         <div id="templatemo_footer_wrapper">
-
-            <div id="templatemo_footer">
-
-                <div class="section_w550">
-
-                    <div class="section_twitter twitter">
-                        <a href="http://vk.com/mariakloster"><fmt:message bundle="${msgs}" key="mainAdmin"/></a>
-                    </div>
-
-                </div>
-
-            </div> <!-- end of templatemo_footer -->
 
             <div class="cleaner"></div>
         </div> <!-- end of templatemo_footer_wrapper -->

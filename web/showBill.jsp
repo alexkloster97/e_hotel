@@ -1,9 +1,3 @@
-<%-- 
-    Document   : showBill
-    Created on : 08.06.2014, 16:39:42
-    Author     : Игорь
---%>
-
 <%@page import="by.bsuir.hotel.entity.Bill"%>
 <%@page import="java.util.ArrayList"%>
 <%@page import="java.util.List"%>

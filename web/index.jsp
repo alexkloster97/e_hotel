@@ -1,9 +1,3 @@
-<%-- 
-    Document   : index
-    Created on : 19.05.2014, 20:37:40
-    Author     : Игорь
---%>
-
 <%@page import="by.bsuir.hotel.entity.User"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
@@ -116,21 +110,6 @@
             </div> <!-- templatemo_content -->
 
         </div> <!-- end of templatemo_content_wrapper -->
-
-        <div id="templatemo_footer_wrapper">
-
-            <div id="templatemo_footer">
-
-                <div class="section_w550">
-
-                    <div class="section_vk vk">
-                         <a href=<fmt:message bundle="${msgs}" key="mainAdmin.http"/>><fmt:message bundle="${msgs}" key="mainAdmin"/></a>
-                    </div>
-
-                </div>
-
-            </div> <!-- end of templatemo_footer -->
-
             <div class="cleaner"></div>
         </div> <!-- end of templatemo_footer_wrapper -->
     </body>

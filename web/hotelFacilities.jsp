@@ -1,8 +1,3 @@
-<%-- 
-    Document   : hotelFacilities
-    Created on : 06.06.2014, 11:03:49
-    Author     : Игорь
---%>
 
 <%@page import="by.bsuir.hotel.entity.User"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

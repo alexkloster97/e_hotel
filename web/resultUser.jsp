@@ -1,9 +1,3 @@
-<%-- 
-    Document   : resultUser
-    Created on : 08.06.2014, 1:32:58
-    Author     : Игорь
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>

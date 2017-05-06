@@ -1,8 +1,3 @@
-<%-- 
-    Document   : userApplication
-    Created on : 08.06.2014, 10:38:48
-    Author     : Игорь
---%>
 
 <%@page import="by.bsuir.hotel.entity.User"%>
 <%@page import="java.util.ArrayList"%>

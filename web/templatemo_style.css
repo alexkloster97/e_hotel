@@ -6,7 +6,7 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
 	color: #ffffff;
-        background: #1f1d1b;
+        background: url(images/templatemo_content_bg_wrappers.jpg);
 }
 		
 a:link, a:visited { color: #fad40d; font-size:12px; text-decoration: none; font-weight: normal; } 
@@ -167,7 +167,7 @@ th{
 	clear: both;
 	width: 100%;
 	margin: 0 auto;
-	background: url(images/templatemo_content_bg_wrapper.jpg) center top no-repeat;
+	background: url(images/templatemo_content_bg_wrappers.jpg) center top;
 }
 
 #templatemo_content {

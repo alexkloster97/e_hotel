@@ -1,8 +1,3 @@
-<%-- 
-    Document   : showInfNumberUser
-    Created on : 06.06.2014, 22:58:28
-    Author     : Игорь
---%>
 
 <%@page import="by.bsuir.hotel.entity.HotelNumber"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

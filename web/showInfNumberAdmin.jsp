@@ -1,8 +1,3 @@
-<%-- 
-    Document   : showInfNumberAdmin
-    Created on : 07.06.2014, 0:33:07
-    Author     : Игорь
---%>
 
 <%@page import="by.bsuir.hotel.entity.HotelNumber"%>
 <%@page import="java.util.List"%>
